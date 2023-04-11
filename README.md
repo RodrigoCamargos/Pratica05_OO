@@ -1,1 +1,1 @@
-# Pratica05_POO
+# Pratica05_OO
